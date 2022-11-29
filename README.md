@@ -11,5 +11,5 @@ In **.NET**, an exception is an object that inherits from the **System.Exception
 ## Programming Paradigm
 Object oriented Programming in C#(we used constructors, methods, classes and fields)
 
-**NOTE:**This application is subject to further improvements and changes...cheers!👓😃👌🤷‍♀️
+**NOTE** : This application is subject to further improvements and changes...cheers!👓😃👌🤷‍♀️
 
