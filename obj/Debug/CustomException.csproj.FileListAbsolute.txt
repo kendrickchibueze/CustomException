@@ -1,0 +1,8 @@
+C:\Users\ENVY\source\repos\CustomException\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\ENVY\source\repos\CustomException\CustomException\bin\Debug\CustomException.exe
+C:\Users\ENVY\source\repos\CustomException\CustomException\bin\Debug\CustomException.pdb
+C:\Users\ENVY\source\repos\CustomException\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+C:\Users\ENVY\source\repos\CustomException\CustomException\obj\Debug\CustomException.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENVY\source\repos\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\source\repos\CustomException\CustomException\obj\Debug\CustomException.exe
+C:\Users\ENVY\source\repos\CustomException\CustomException\obj\Debug\CustomException.pdb
